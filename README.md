@@ -1,6 +1,6 @@
-** Simple MySQL Case Study on Company Dataset **
+**Simple MySQL Case Study on Company Dataset
 
-* Fisrt SQL Case Study in the upGrad Data Science learning path *
+*Fisrt SQL Case Study in the upGrad Data Science learning path
 
 This repository contains the following documents:
 
